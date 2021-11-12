@@ -39,3 +39,5 @@ A: That's because sometimes the API cannot hook, i got around it by just copying
 
 Q: I accepted the Steam Workshop ToS but still I cannot upload Addons and it logs me out of Steam in my Server!
 A: Make sure you currently closed Garry's Mod and aren't playing it, when you try to Upload an Addon it tries to Start GMod possibly to verify that you accepted the Steam Workshop ToS or whatsoever (I really don't know why), but you can only have one Garry's Mod Instance running at a Time that's why just close Garry's Mod while your using GMPublish! 
+
+(Also im Sorry for my Garbage English)

@@ -21,11 +21,11 @@ __Optional, if you want to Upload aswell your Addons to the Steam Workshop direc
 
 __**Installing:**__
 
-__This should work on the above mentioned Debian 9/10/11 Release.__
+__This should work on any of the above mentioned Operating Systems.__
 
 Open your Terminal...
 
-First update your System and install "Git" ``sudo apt update -y && sudo apt upgrade -y && sudo apt install git``
+First update your System and install ``Git`` with ``sudo apt update -y && sudo apt upgrade -y && sudo apt install git``
 
 After installing Git and Updating your System clone the Repository with: ``git clone https://github.com/Liatori-GR/linux-gmad-gmpublish``
 

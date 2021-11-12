@@ -12,6 +12,7 @@ __**Requirements:**__
 - ``Git`` Installed on your Server.
 - The Server Processor should have atleast 3 GHz Single Core Performance when your creating Large Addons with many Files. (You cannot use Multiple Cores, so as I said Single Core Performance is much more needed than Multi Core Performance!)
 - Atleast 8 GB of RAM available on your Server for the Addon Creation.
+- You need a Legitimate Copy of Garry's Mod.
 
 __Optional, if you want to Upload aswell your Addons to the Steam Workshop directly via your Server:__
 

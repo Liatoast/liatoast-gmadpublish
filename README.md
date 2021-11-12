@@ -36,9 +36,11 @@ If you want to use ``GMPublish`` to upload your Addons directly to the Steam Wor
 # Common Issues
 
 Q: I get an ``libsteam_api.so`` is missing or any kind of libsteam Error!
+
 A: That's because sometimes the API cannot hook, i got around it by just copying ``libsteam_api.so`` to the ``/lib/`` Directory with ``sudo cp libsteam_api.so /lib/``.
 
 Q: I accepted the Steam Workshop ToS but still I cannot upload Addons and it logs me out of Steam in my Server!
-A: Make sure you currently closed Garry's Mod and aren't playing it, when you try to Upload an Addon it tries to Start GMod possibly to verify that you accepted the Steam Workshop ToS or whatsoever (I really don't know why), but you can only have one Garry's Mod Instance running at a Time that's why just close Garry's Mod while your using GMPublish! 
+
+A: **Make sure you currently closed Garry's Mod and aren't playing it**, when you try to Upload an Addon it tries to Start GMod possibly to verify that you accepted the Steam Workshop ToS or whatsoever (I really don't know why), but you can only have one Garry's Mod Instance running at a Time that's why just close Garry's Mod while your using GMPublish! 
 
 (Also im Sorry for my Garbage English)

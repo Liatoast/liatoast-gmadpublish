@@ -28,7 +28,7 @@ Open your Terminal...
 
 First update your System and install ``Git`` with ``sudo apt update -y && sudo apt upgrade -y && sudo apt install git``
 
-After installing Git and Updating your System clone the Repository with: ``git clone https://github.com/Liatori-GR/liato-gmadpublish``
+After installing Git and Updating your System clone the Repository with: ``git clone https://github.com/Liatoast/liatoast-gmadpublish``
 
 Enter the Directory and use the following Command to open GMAD ``./gmad``, if an Error occurs Scroll down to ``Common Issues``.
 

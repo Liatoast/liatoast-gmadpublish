@@ -38,7 +38,7 @@ If you want to use ``GMPublish`` to upload your Addons directly to the Steam Wor
 
 Q: I get an ``libsteam_api.so`` is missing or any kind of libsteam Error!
 
-A: That's because sometimes the API cannot hook, i got around it by just copying ``libsteam_api.so`` to the ``/lib/`` Directory with ``sudo cp libsteam_api.so /lib/``.
+A: That's because sometimes the API cannot hook or get the Libraries, i got around it by just copying ``libsteam_api.so`` to the ``/lib/`` Directory with ``sudo cp libsteam_api.so /lib/``.
 
 Q: I accepted the Steam Workshop ToS but still I cannot upload Addons and it logs me out of Steam in my Server!
 
